@@ -1,3 +1,9 @@
+### 0.说明
+由于平台限制，完整的项目放在百度网盘。
+
+链接如下： https://pan.baidu.com/s/1FsdgSPV4LPrDKvB2CFQV9w?pwd=twbv 提取码: twbv 
+
+
 ### 1. 依赖
 
     Python3.8 PyTorch 版本 1.7.0+cu110
