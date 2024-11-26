@@ -15,6 +15,7 @@
 ![数据分布](./charts/data_distribution.png)
 
 Q：如何合并训练集和验证集
+
 A：首先先下载训练集和验证集，然后放到把图像都放到 'data/temp/images' 下面，把每张图像的标签（jason文件）放到 '/data/temp/labels/'下面。然后运行 move.py 即可完成合并。
 
 数据集链接：https://pan.baidu.com/s/1i723X1RZbWP4iQia5TnKMw?pwd=3yny 提取码: 3yny 
