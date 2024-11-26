@@ -3,6 +3,11 @@
 
 链接如下： https://pan.baidu.com/s/1FsdgSPV4LPrDKvB2CFQV9w?pwd=twbv 提取码: twbv 
 
+我们将最终训练好的模型部署到了安卓端，可以安装安卓APP进行实时检测。
+
+APP下载地址：
+
+https://drive.google.com/file/d/1qlr1Mtqzn1mepLIlmlHt0iNxcx8CTdtg/view?usp=sharing
 
 ### 1. 依赖
 
