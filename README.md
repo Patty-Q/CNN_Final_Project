@@ -7,6 +7,7 @@
 ### 1. 依赖
 
     Python3.8 PyTorch 版本 1.7.0+cu110
+    其余参考 'requirements.txt'
 
 ### 2. 关于数据的处理
 
