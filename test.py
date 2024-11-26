@@ -34,7 +34,7 @@ optimizer = optim.Adam(model.parameters(),lr = config.lr,amsgrad=True,weight_dec
 criterion = nn.CrossEntropyLoss().to(device) 
 test_files = get_files(config.test_data,"test") 
 # Checkpoint to load the best model.
-best_model = torch.load(config.best_models + os.sep+config.model_name+os.sep+ str(0) +os.sep+ 'model_best.pth.tar')
+best_model = torch.load(config.best_models + os.sep+config.model_name+os.sep+ str(1) +os.sep+ 'model_best.pth.tar')
 # Load the state dictionary of the best model.
 model.load_state_dict(best_model["state_dict"])
 test_dataloader = DataLoader(ChaojieDataset(test_files,test=True),batch_size=1,shuffle=False,pin_memory=False)
